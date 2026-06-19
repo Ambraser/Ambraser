@@ -9,7 +9,7 @@ Last year student in Polytech Lyon. Currently doing an internship in [ERIC](http
 
 ![](https://github-readme-stats.vercel.app/api?username=Ambraser&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ambraser&theme=cobalt&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Damidas0&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambraser&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Damidas0&icon=0&color=2)](https://visitcount.itsvg.in)
